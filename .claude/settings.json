@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/d/unity_school/**)",
+      "Edit(/d/unity_school/**)",
+      "Write(/d/unity_school/**)",
+      "Glob(/d/unity_school/**)",
+      "Grep(/d/unity_school/**)",
+      "Bash(find /d/unity_school/*)",
+      "Bash(find /d/unity_school/**)",
+      "Bash(cat /d/unity_school/**)",
+      "Bash(grep * /d/unity_school/**)",
+      "Bash(xargs * /d/unity_school/**)"
+    ]
+  }
+}

@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 47378d73d1f68ca4992661cbe5b0f31d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 953
+        width: 131
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c73016590ef9e64b868c9284e46b7b5
+      internalID: -1518651619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 953
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f53b0c26027d8459bcc91e85298ca1
+      internalID: -1438559158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 938
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136279caa3011b24fadb2561833d981c
+      internalID: 1280370588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 977
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2867ab4cedbdc5b4c88038b88237ca7b
+      internalID: -691582288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 969
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea57a6be59f1a45bb48c6d8edda0d1
+      internalID: 1654022544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 956
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a5c59a6b5b0d41b0aa9507121ab0a
+      internalID: 970638848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 980
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac7e5a9ce5bbbe4d928e2c559d4cb77
+      internalID: -438293956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 855
+        width: 170
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd7563422a3d54c882646141c5aaab
+      internalID: 958478254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 898
+        width: 122
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1c4a8ec1c4b894599007b06632e8d8
+      internalID: 1775522134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 898
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691713add0da45f4bb62eada1e9a4eac
+      internalID: -1708566723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 933
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122596968dc068468aa5054825d8af4
+      internalID: -277213744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 869
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f73bf8190e3adc47846c3024e187d5d
+      internalID: -1232790627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 862
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0c44d37de7e040b78da1c0abf4597
+      internalID: -1339364912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 867
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b6ae690abc0d94ea96981fff8cad68
+      internalID: -1277941382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 852
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41a981bf739fb488530b3e2f9b7915
+      internalID: 827093061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 856
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505fc9a4f8ee60f49987f546c5c47f53
+      internalID: -1242132865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 829
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeba9f1b3f91ad6418ff1771792e05d6
+      internalID: 1106973883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 864
+        width: 11
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61116b8ff0d7d584f941f7a6124df6ee
+      internalID: -1218569989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 863
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13af418cbd69db449f2a2cc24b781b7
+      internalID: 706661685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 776
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eab30af3af1cf45a2a8322639d6a05
+      internalID: -1297844145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 837
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e212485232724745a10eef58e51df25
+      internalID: 1379901432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 831
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a4345f6c0f3cc49b7805669dee237a
+      internalID: 1814864835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 835
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb27100f2bcd2c4ebdb6f6b930f85d3
+      internalID: -37974074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 828
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71899bc5dccd0947a695aeda9de129f
+      internalID: 2025408118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 826
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa2f19e5cfe37f49990bf88c96ebca1
+      internalID: -1194486889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 771
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91898aec58d505442afe73c5f50a11ee
+      internalID: -1712365787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 785
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf47c7083a1c37145aa56102fde61d0a
+      internalID: -1922378006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 817
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194e277081774c489fa3eb065e4eea1
+      internalID: -673907050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 583
+        width: 373
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4cdcedfc250da4f851ff2461ca8d72
+      internalID: -53730201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_29
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 582
+        width: 131
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e621ca1164e7fe45a2f67e744588e5c
+      internalID: 792624896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_30
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 583
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdfcb59d73c2394881b6d63e0947128
+      internalID: -1893035116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 177
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a83837e6bc11b64ca42ffeb738f72e9
+      internalID: -1020852247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 276
+        width: 119
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a392a2234e1c44d80f93ab18e32ba9
+      internalID: -1467466688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 276
+        width: 237
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280dee40db4b8954fb0aef19984b44ee
+      internalID: 1320379517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cueva_sritesheet_new_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 489
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6115ebaff6b46764b954c3b811d5fe56
+      internalID: -1059519873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cueva_sritesheet_new_0: -1518651619
+      cueva_sritesheet_new_1: -1438559158
+      cueva_sritesheet_new_10: -277213744
+      cueva_sritesheet_new_11: -1232790627
+      cueva_sritesheet_new_12: -1339364912
+      cueva_sritesheet_new_13: -1277941382
+      cueva_sritesheet_new_14: 827093061
+      cueva_sritesheet_new_15: -1242132865
+      cueva_sritesheet_new_16: 1106973883
+      cueva_sritesheet_new_17: -1218569989
+      cueva_sritesheet_new_18: 706661685
+      cueva_sritesheet_new_19: -1297844145
+      cueva_sritesheet_new_2: 1280370588
+      cueva_sritesheet_new_20: 1379901432
+      cueva_sritesheet_new_21: 1814864835
+      cueva_sritesheet_new_22: -37974074
+      cueva_sritesheet_new_23: 2025408118
+      cueva_sritesheet_new_24: -1194486889
+      cueva_sritesheet_new_25: -1712365787
+      cueva_sritesheet_new_26: -1922378006
+      cueva_sritesheet_new_27: -673907050
+      cueva_sritesheet_new_28: -53730201
+      cueva_sritesheet_new_29: 792624896
+      cueva_sritesheet_new_3: -691582288
+      cueva_sritesheet_new_30: -1893035116
+      cueva_sritesheet_new_31: -1020852247
+      cueva_sritesheet_new_32: -1467466688
+      cueva_sritesheet_new_33: 1320379517
+      cueva_sritesheet_new_34: -1059519873
+      cueva_sritesheet_new_4: 1654022544
+      cueva_sritesheet_new_5: 970638848
+      cueva_sritesheet_new_6: -438293956
+      cueva_sritesheet_new_7: 958478254
+      cueva_sritesheet_new_8: 1775522134
+      cueva_sritesheet_new_9: -1708566723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

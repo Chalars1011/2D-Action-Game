@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 3c4f6d56ecf853a449deed3b209344e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 6
+        height: 14
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.23468372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e7cadd4db040245b92697e114a8cdc
+      internalID: -1791026745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 6
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4806541, y: 0.20255566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c42ab1e0d05934eb3da1dc81369edf
+      internalID: -1495545283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5193456, y: 0.27752113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946ab9a4074d2804982d3e6c8590cac1
+      internalID: 1709265840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 6
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5386918, y: 0.30101258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a48bc0025a7d4e8c08c51a9f4bbe7
+      internalID: 925220286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 6
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5386912, y: 0.2761394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef828ba81b87b45aeca44fbf55527c
+      internalID: -429198865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 48
+        width: 6
+        height: 14
+      alignment: 9
+      pivot: {x: 0.57738304, y: 0.25126594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07fab62af715304c9deff7d361996b2
+      internalID: -1203235881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.38392386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913866c4d88f4eb4e837c131554e5d30
+      internalID: -303884869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.47678453, y: 0.37102678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a97c6b2cc75c4990c53d1143c8441
+      internalID: 716343983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 36
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.4999996, y: 0.32588577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2220a0b556b17e4b8decd5c9e8b9a0e
+      internalID: -276483025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 36
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5232151, y: 0.31427842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78014e0904fb2b444bec0400f8cc193d
+      internalID: -55189920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 3
+        height: 7
+      alignment: 9
+      pivot: {x: 0.46130776, y: 0.26784816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d691b547b81891e4e92946c5efffe48f
+      internalID: 596448202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 26
+        width: 3
+        height: 6
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.5193456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472e9d27cd861bd4481f3a7b8fd1ec15
+      internalID: -1722097324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 27
+        width: 3
+        height: 6
+      alignment: 9
+      pivot: {x: 0.46130848, y: 0.4419619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c13700341331364da514c8abae76bba
+      internalID: 357390909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mourningandhavoc-flames-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 3
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5386918, y: 0.46130785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedbc762ebf981c47823ad38c93ebcb2
+      internalID: -1195118113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mourningandhavoc-flames-spritesheet_0: -1791026745
+      mourningandhavoc-flames-spritesheet_1: -1495545283
+      mourningandhavoc-flames-spritesheet_10: 596448202
+      mourningandhavoc-flames-spritesheet_11: -1722097324
+      mourningandhavoc-flames-spritesheet_12: 357390909
+      mourningandhavoc-flames-spritesheet_13: -1195118113
+      mourningandhavoc-flames-spritesheet_2: 1709265840
+      mourningandhavoc-flames-spritesheet_3: 925220286
+      mourningandhavoc-flames-spritesheet_4: -429198865
+      mourningandhavoc-flames-spritesheet_5: -1203235881
+      mourningandhavoc-flames-spritesheet_6: -303884869
+      mourningandhavoc-flames-spritesheet_7: 716343983
+      mourningandhavoc-flames-spritesheet_8: -276483025
+      mourningandhavoc-flames-spritesheet_9: -55189920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

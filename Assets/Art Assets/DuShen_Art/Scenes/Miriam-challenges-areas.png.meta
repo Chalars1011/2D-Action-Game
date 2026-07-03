@@ -1,0 +1,1746 @@
+fileFormatVersion: 2
+guid: 76ac7cfcc9786b646bc96e77e3130a3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 983
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a136c014ba24840b3cb90aafba8c9e
+      internalID: -378459364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 983
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a918cee7a4d240a8792b4d09e43e7
+      internalID: 1426602674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 983
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f27c0241f0a6e44b6c999abc88546e
+      internalID: -1898093044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 982
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74be176e55cf3f4aad31f7cf190e0f9
+      internalID: 792156420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 981
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e41396bf085d3e4f82f36566dcba833
+      internalID: 746378023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 981
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f8c031cb85fe646b425042c514c675
+      internalID: -1129437340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_6
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 981
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfa9a74afba2e642862fa2b9a7ff2e3
+      internalID: 15604630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 981
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6de0e5722e37a4c878466234d91eac
+      internalID: -420354619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 959
+        width: 104
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194421b69170d3549ba4e597e4cc71cb
+      internalID: -781910233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_9
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 766
+        width: 195
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d9bb93c71dc6642afdaf73e7d0c6fd
+      internalID: -786103199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 911
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce2ae7cea66eaa41bdd840743e73359
+      internalID: 140392734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 910
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209003d6f4dcd13409e2b8a61d22fca1
+      internalID: 2015040540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 908
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e41d8fccd340194fbd9212918387366
+      internalID: -1257697154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 909
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9facf9f1e8ab5c4bb87c4e343a05915
+      internalID: -225569901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 909
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73e23c7d27433a439bc35b1f33c7d03
+      internalID: -295793126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 959
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043c9ccf16aeec148a48653e6b7bd3b0
+      internalID: -411169033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 959
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743c38b482130b468bc0e9a4ad24358
+      internalID: -657904354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 959
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c219ce3715af3104ca1fffe6e4df66c5
+      internalID: -1439295057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 959
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e5296333def94cb6bbf2863f316e1
+      internalID: -2143060500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 916
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d6fcb5cb64b94cb6dca581d4c0a22
+      internalID: 1912393656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 891
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020a46a5e0451c74bb70b76571b5ee8e
+      internalID: -1546386146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 889
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e10513781c0a49a5cfc09e89cf2bf
+      internalID: -1946332038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 933
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94658de66de2e084bac3471050e159a7
+      internalID: -26715719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 874
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f014ad9c54628684f82cc76a0083a284
+      internalID: 192962637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 875
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6364e655484c640488077014250c1bbd
+      internalID: 2003451744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 866
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a6660e1fdf1d942b9eef395797a59c
+      internalID: -549346088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 838
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca74f55d965a8a4097e4689d4447ef0
+      internalID: -1025017267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e231de81de042498763ea38ea79281
+      internalID: -469274749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 832
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7b8b8559fcf994dbe38b3d55ab66f1
+      internalID: 806350867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb444966101785749abb3f6934ed0645
+      internalID: 1632319168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302d012651ed1634d969c8aee0e9d03c
+      internalID: 1661700645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_35
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e84eead3b0e044fb2c7801dd692ecd
+      internalID: -680746517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196404f9e8218294094679247d4f370b
+      internalID: -1714343764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 831
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f54535d7905c754c806e813f4b3cecd
+      internalID: 829834110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_38
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 837
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce65b494d15dc842b8b5ecda2b8b1d7
+      internalID: -804173804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_39
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 842
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a13e5f0bf19c4fbb2d9a951f2295f
+      internalID: -237304515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 801
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75633da66c8a15745b165a2a59f8403e
+      internalID: -342364199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 801
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b42186e68e99b245b2411dce0d11163
+      internalID: 2041626841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 796
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb28acd7676ca344b44e4e74096af9b
+      internalID: -749939167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 800
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e008c410177b924d8398c487ac13f60
+      internalID: 1584958526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_44
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 766
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391b827619d0a8049841b286e3492b64
+      internalID: -890434107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_45
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 784
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbbd7be507584c4aa6d4a59d2b3adc0
+      internalID: -1672984947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 749
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ca32cce81bf6e41a0451764fc0a102
+      internalID: -1673787191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_47
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 757
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1b3277bd97f7488e141e66faed016
+      internalID: -40537000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 757
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991f67d851a1794aaee50f5746ba30f
+      internalID: -1028858328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 761
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0394e766265a1479ffb8837e1541c5
+      internalID: 1497429656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 761
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d19d72efe0e39b4694f293e4ec3f755
+      internalID: -2098818947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 720
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a578bc03753224db285afed1306f52
+      internalID: 1782414571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 756
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38daa7a352d5cd94887d886ee75b8155
+      internalID: -1447350252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 674
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31118b770ffc3d4cbc1e22319cfbbeb
+      internalID: -544131322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 674
+        width: 129
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e611284f3adccf547b00f98e11078187
+      internalID: -658824225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_55
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 723
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5262da7c6e4283b43af10ea6246cd184
+      internalID: 1757674970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 721
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62a03c47730582469de4ce4a39d17db
+      internalID: -2136377375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_57
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 647
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2452ce8dee09d447bc02d344db51966
+      internalID: 1323602525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 672
+        width: 134
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a410525997e40b446b78c750c26de5ac
+      internalID: -1708466151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 630
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a620bfd0725d74e9f1f97a79b14e8a
+      internalID: -1719967965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_60
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 637
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264e2ae4a951b2c4d9153c6c02c9519e
+      internalID: 1948298489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_61
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 585
+        width: 27
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229b33e74f109745a362d6a2899764d
+      internalID: -159715814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_62
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 586
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6672051f23506994daff786823460636
+      internalID: -630515841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 420
+        width: 256
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b6e70b343f544089548ec1dd37714
+      internalID: 1861772779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 621
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260aa58556db07a45bbf08a5b6f94349
+      internalID: 974257797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_65
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 638
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30199f5ebc3688743ae54bb37aaa8bd9
+      internalID: 611632756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_66
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 611
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81279dbb747dae04ca369158f91aec73
+      internalID: -2073188404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_67
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 585
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d643ca5cc463449c00cd7cfa5571d
+      internalID: -719672626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 420
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69415d15a58307844a55e93944da08dd
+      internalID: -2064890028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_69
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 407
+        width: 332
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031981bae3a39a44b6ebb06da4ea4a7
+      internalID: -744801511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 145
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e69b08bc0030334e8bdb8bb9c497ee5
+      internalID: -1752400056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_71
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 184
+        width: 145
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f8fac171969c49b33100d701d52ad
+      internalID: -1318043486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_72
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 10
+        width: 673
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65f3b7f993b950418ce190ffc2ee506
+      internalID: 990503189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 90
+        width: 145
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d782c59d5b2a5fb4d8a17e83c447f6e2
+      internalID: -858790415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_74
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 90
+        width: 145
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f668355754bb364cbcc8cf89f9cb4eb
+      internalID: -375223188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 145
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4429e03e647c4392d4cb08f692aed
+      internalID: -1435544571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_76
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 145
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf45f1cabb8e540bf0d8a8a967651f
+      internalID: -79182436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miriam-challenges-areas_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 869
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc06ea8a214dc541b408e333e2609d6
+      internalID: -224110585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Miriam-challenges-areas_0: -378459364
+      Miriam-challenges-areas_1: 1426602674
+      Miriam-challenges-areas_10: 140392734
+      Miriam-challenges-areas_11: 2015040540
+      Miriam-challenges-areas_12: -1257697154
+      Miriam-challenges-areas_13: -225569901
+      Miriam-challenges-areas_14: -295793126
+      Miriam-challenges-areas_15: -411169033
+      Miriam-challenges-areas_16: -657904354
+      Miriam-challenges-areas_17: -1439295057
+      Miriam-challenges-areas_18: -2143060500
+      Miriam-challenges-areas_19: 237199336
+      Miriam-challenges-areas_2: -1898093044
+      Miriam-challenges-areas_20: 1873335455
+      Miriam-challenges-areas_21: 1912393656
+      Miriam-challenges-areas_22: -1546386146
+      Miriam-challenges-areas_23: -1946332038
+      Miriam-challenges-areas_24: -26715719
+      Miriam-challenges-areas_25: 192962637
+      Miriam-challenges-areas_26: 2003451744
+      Miriam-challenges-areas_27: -549346088
+      Miriam-challenges-areas_28: -224110585
+      Miriam-challenges-areas_29: -1830970225
+      Miriam-challenges-areas_3: 792156420
+      Miriam-challenges-areas_30: -1025017267
+      Miriam-challenges-areas_31: -469274749
+      Miriam-challenges-areas_32: 806350867
+      Miriam-challenges-areas_33: 1632319168
+      Miriam-challenges-areas_34: 1661700645
+      Miriam-challenges-areas_35: -680746517
+      Miriam-challenges-areas_36: -1714343764
+      Miriam-challenges-areas_37: 829834110
+      Miriam-challenges-areas_38: -804173804
+      Miriam-challenges-areas_39: -237304515
+      Miriam-challenges-areas_4: 746378023
+      Miriam-challenges-areas_40: -342364199
+      Miriam-challenges-areas_41: 2041626841
+      Miriam-challenges-areas_42: -749939167
+      Miriam-challenges-areas_43: 1584958526
+      Miriam-challenges-areas_44: -890434107
+      Miriam-challenges-areas_45: -1672984947
+      Miriam-challenges-areas_46: -1673787191
+      Miriam-challenges-areas_47: -40537000
+      Miriam-challenges-areas_48: -1028858328
+      Miriam-challenges-areas_49: 1497429656
+      Miriam-challenges-areas_5: -1129437340
+      Miriam-challenges-areas_50: -2098818947
+      Miriam-challenges-areas_51: 1782414571
+      Miriam-challenges-areas_52: -1447350252
+      Miriam-challenges-areas_53: -544131322
+      Miriam-challenges-areas_54: -658824225
+      Miriam-challenges-areas_55: 1757674970
+      Miriam-challenges-areas_56: -2136377375
+      Miriam-challenges-areas_57: 1323602525
+      Miriam-challenges-areas_58: -1708466151
+      Miriam-challenges-areas_59: -1719967965
+      Miriam-challenges-areas_6: 15604630
+      Miriam-challenges-areas_60: 1948298489
+      Miriam-challenges-areas_61: -159715814
+      Miriam-challenges-areas_62: -630515841
+      Miriam-challenges-areas_63: 1861772779
+      Miriam-challenges-areas_64: 974257797
+      Miriam-challenges-areas_65: 611632756
+      Miriam-challenges-areas_66: -2073188404
+      Miriam-challenges-areas_67: -719672626
+      Miriam-challenges-areas_68: -2064890028
+      Miriam-challenges-areas_69: -744801511
+      Miriam-challenges-areas_7: -420354619
+      Miriam-challenges-areas_70: -1752400056
+      Miriam-challenges-areas_71: -1318043486
+      Miriam-challenges-areas_72: 990503189
+      Miriam-challenges-areas_73: -858790415
+      Miriam-challenges-areas_74: -375223188
+      Miriam-challenges-areas_75: -1435544571
+      Miriam-challenges-areas_76: -79182436
+      Miriam-challenges-areas_77: 1804888522
+      Miriam-challenges-areas_8: -781910233
+      Miriam-challenges-areas_9: -786103199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

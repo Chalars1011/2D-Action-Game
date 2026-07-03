@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: f34744854c1714b4badc072e492c5566
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_dodge_anim_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 67
+        height: 73
+      alignment: 9
+      pivot: {x: 0.70583785, y: 0.019045686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e6300a565365a4fad4b9c39827fc53
+      internalID: 1578049431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_dodge_anim_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 162
+        width: 66
+        height: 71
+      alignment: 9
+      pivot: {x: 0.69781935, y: 0.016842265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610bf05047cc314fb47cd6aed0939b4
+      internalID: 1511061724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_dodge_anim_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 189
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.59239984, y: 0.021695368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c9b4f97907ee14c89b44d840c1632a
+      internalID: 1267366906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_dodge_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7187344, y: 0.023771074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b55b3cb54538641b23f046981431ff
+      internalID: 2053557976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_dodge_anim_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 130
+        width: 60
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6122584, y: 0.020003496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3dfed3f99aa1546a4ee30392f977c0
+      internalID: 536481143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_dodge_anim_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6425112, y: 0.01917839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8dc05b0941f1740bbfc65b59757fe9
+      internalID: 957006745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_dodge_anim_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 66
+      alignment: 9
+      pivot: {x: 0.68856716, y: 0.011848774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a6d82b742e85f4daf1599183c2ac43
+      internalID: 165060619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_dodge_anim_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6588385, y: 0.012734225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc0f861ece5224fb0056b4e50385c6
+      internalID: 477577650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      penitent_dodge_anim_0: 2053557976
+      penitent_dodge_anim_1: 1578049431
+      penitent_dodge_anim_10: 965184303
+      penitent_dodge_anim_11: -2022238913
+      penitent_dodge_anim_13: -918981850
+      penitent_dodge_anim_14: 147949958
+      penitent_dodge_anim_17: -927301210
+      penitent_dodge_anim_18: 721074127
+      penitent_dodge_anim_19: 1995749095
+      penitent_dodge_anim_2: 1511061724
+      penitent_dodge_anim_20: 865514154
+      penitent_dodge_anim_3: 165060619
+      penitent_dodge_anim_4: 477577650
+      penitent_dodge_anim_5: 957006745
+      penitent_dodge_anim_6: 536481143
+      penitent_dodge_anim_7: 1267366906
+      penitent_dodge_anim_9: 876895843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

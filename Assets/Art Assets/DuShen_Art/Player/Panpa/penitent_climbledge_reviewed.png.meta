@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: ae0c6775401e46643804c452392a0b30
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 128
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2205fc87f672a7f4bbb782871455a1bd
+      internalID: -1569039965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 301
+        width: 37
+        height: 83
+      alignment: 9
+      pivot: {x: 0.7742095, y: 0.2643179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f726cd5a333450944ac68e092f5bcf51
+      internalID: 829097190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 316
+        width: 60
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5248413, y: 0.14283325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ac9d49782661458a4a4c6296e6d0f
+      internalID: -888183981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 320
+        width: 75
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4669393, y: 0.23665161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e863accb53f99f947b0be9619d7c9b8a
+      internalID: -178237943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 191
+        width: 70
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5004026, y: 0.30211595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33697f0bb6a1d8489e7588a927ebf5c
+      internalID: -1211857067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 211
+        width: 59
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5271526, y: 0.31259874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec07e16a9ff8794f81a4274e9a8110f
+      internalID: 456632110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 215
+        width: 79
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6550274, y: 0.23100054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcbc93948d08f24fb526870ca52f6ce
+      internalID: -1654212507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 217
+        width: 74
+        height: 65
+      alignment: 9
+      pivot: {x: 0.71530646, y: 0.13718145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e12f5febcc4444aa4081426efd071d
+      internalID: 1801048442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 80
+        height: 66
+      alignment: 9
+      pivot: {x: 0.70973265, y: 0.18262887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec68b647b90d3444a028a24504088f3
+      internalID: 1376014574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 66
+        width: 82
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6607147, y: 0.12634103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28606a7b450964ba7c53d49f37a643
+      internalID: 1386717245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 66
+        width: 82
+        height: 57
+      alignment: 9
+      pivot: {x: 0.694065, y: 0.09664462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1fb00654cf9c645a5441002178c7ac
+      internalID: 491153086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_climbledge_reviewed_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 66
+        width: 77
+        height: 64
+      alignment: 9
+      pivot: {x: 0.7224498, y: 0.038006306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa42450290cbf4c91c100a657cf73b
+      internalID: -1790915233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      penitent_climbledge_reviewed_0: -1569039965
+      penitent_climbledge_reviewed_1: 829097190
+      penitent_climbledge_reviewed_10: 491153086
+      penitent_climbledge_reviewed_11: -1790915233
+      penitent_climbledge_reviewed_12: -1723176356
+      penitent_climbledge_reviewed_2: -888183981
+      penitent_climbledge_reviewed_3: -178237943
+      penitent_climbledge_reviewed_4: -1211857067
+      penitent_climbledge_reviewed_5: 456632110
+      penitent_climbledge_reviewed_6: -1654212507
+      penitent_climbledge_reviewed_7: 1801048442
+      penitent_climbledge_reviewed_8: 1376014574
+      penitent_climbledge_reviewed_9: 1386717245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

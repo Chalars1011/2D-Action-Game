@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player_ShanBi
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - serializedVersion: 2
+    curve:
+    - time: 0
+      value: {fileID: 2053557976, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - time: 0.016666668
+      value: {fileID: 1578049431, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - time: 0.033333335
+      value: {fileID: 1511061724, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - time: 0.033333335
+      value: {fileID: 165060619, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - time: 0.05
+      value: {fileID: 477577650, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - time: 0.05
+      value: {fileID: 957006745, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - time: 0.06666667
+      value: {fileID: 536481143, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - time: 0.083333336
+      value: {fileID: 1267366906, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - time: 0.11666667
+      value: {fileID: 21300000, guid: 14dcf5672c8c0f4418f6b8cc3c36a4f3, type: 3}
+    - time: 0.15
+      value: {fileID: 21300000, guid: 66f5068acd731404391906363c63771a, type: 3}
+    - time: 0.2
+      value: {fileID: 21300000, guid: 152cd8c38c15e7248b775d3c89e7f48d, type: 3}
+    - time: 0.23333333
+      value: {fileID: 21300000, guid: d2c7b2b9e54873d4e89492059ff91f4a, type: 3}
+    - time: 0.26666668
+      value: {fileID: 21300000, guid: 8b6c42c08b6fa8045a95eb4f78b1837e, type: 3}
+    - time: 0.31666666
+      value: {fileID: 21300000, guid: c02302033854aa645b72f83ff03e97c2, type: 3}
+    - time: 0.35
+      value: {fileID: 21300000, guid: f8a68811b777f43408d73992678b7edc, type: 3}
+    - time: 0.38333333
+      value: {fileID: 21300000, guid: cc43fa18d04939443aa286ea5802df69, type: 3}
+    - time: 0.43333334
+      value: {fileID: 21300000, guid: 67156424f4fec6a438a586de723e9766, type: 3}
+    - time: 0.46666667
+      value: {fileID: 21300000, guid: 6387a8e1538035c488e966bb6aad1f81, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: 0262d3a6d7290f744a5642bacf8e7829, type: 3}
+    - time: 0.55
+      value: {fileID: 21300000, guid: a61f566834210a8419424f6806fb3e3d, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+    flags: 2
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: 2053557976, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - {fileID: 1578049431, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - {fileID: 1511061724, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - {fileID: 165060619, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - {fileID: 477577650, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - {fileID: 957006745, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - {fileID: 536481143, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - {fileID: 1267366906, guid: f34744854c1714b4badc072e492c5566, type: 3}
+    - {fileID: 21300000, guid: 14dcf5672c8c0f4418f6b8cc3c36a4f3, type: 3}
+    - {fileID: 21300000, guid: 66f5068acd731404391906363c63771a, type: 3}
+    - {fileID: 21300000, guid: 152cd8c38c15e7248b775d3c89e7f48d, type: 3}
+    - {fileID: 21300000, guid: d2c7b2b9e54873d4e89492059ff91f4a, type: 3}
+    - {fileID: 21300000, guid: 8b6c42c08b6fa8045a95eb4f78b1837e, type: 3}
+    - {fileID: 21300000, guid: c02302033854aa645b72f83ff03e97c2, type: 3}
+    - {fileID: 21300000, guid: f8a68811b777f43408d73992678b7edc, type: 3}
+    - {fileID: 21300000, guid: cc43fa18d04939443aa286ea5802df69, type: 3}
+    - {fileID: 21300000, guid: 67156424f4fec6a438a586de723e9766, type: 3}
+    - {fileID: 21300000, guid: 6387a8e1538035c488e966bb6aad1f81, type: 3}
+    - {fileID: 21300000, guid: 0262d3a6d7290f744a5642bacf8e7829, type: 3}
+    - {fileID: 21300000, guid: a61f566834210a8419424f6806fb3e3d, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.56666666
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.15
+    functionName: PlaySound
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 8
+    messageOptions: 0
+  - time: 0.18333334
+    functionName: DodgeDash
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.18333334
+    functionName: Chongci_start_Effect
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.48333332
+    functionName: Chongci_stop_Effect
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.55
+    functionName: DodgeEnd
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

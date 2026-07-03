@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b33daa4ce58e72941bce5e46a5679613, type: 3}
+  m_Name: FootAudioData
+  m_EditorClassIdentifier: 
+  footsAudios:
+  - Tag: Ground
+    footClips:
+    - {fileID: 8300000, guid: 6879ab3fbfda3364a9a001261cd0d911, type: 3}
+    - {fileID: 8300000, guid: a5a1e572165ce2945b2c313b365bf2fa, type: 3}
+    - {fileID: 8300000, guid: 6879ab3fbfda3364a9a001261cd0d911, type: 3}
+  - Tag: JumpAndRoll
+    footClips:
+    - {fileID: 8300000, guid: 4ae46ad804cb3d14aab644a4118e3035, type: 3}
+    - {fileID: 8300000, guid: 8e961dcbe890b1e4d9795a7368d86df1, type: 3}
+    - {fileID: 8300000, guid: a2daa8e19850bb245a29c8f119969051, type: 3}

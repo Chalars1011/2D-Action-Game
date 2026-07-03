@@ -1,0 +1,1038 @@
+fileFormatVersion: 2
+guid: 34d60557d5d5c074a88b949f74d0f10d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 648
+        width: 83
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d666903a53c746a81c801d728e101
+      internalID: -941824035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 648
+        width: 83
+        height: 18
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.4774136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea171d4436e5a4ab261ec3087fe245
+      internalID: 755292999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 648
+        width: 83
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1694738d76346924e926719e3f2dae18
+      internalID: -402329953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 648
+        width: 83
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75468c0dfcaa311469decac7d0ffe869
+      internalID: 855627607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 648
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e48b4a14c109348b839593d895d9ef
+      internalID: 1938674524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 648
+        width: 82
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.4083191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeed79393c2e89428195e75b8c13060
+      internalID: -1007964261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 648
+        width: 82
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5031947, y: 0.36278716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7db12862319446bd6845f25b6bb5a
+      internalID: -1006994272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 521
+        width: 83
+        height: 21
+      alignment: 9
+      pivot: {x: 0.50494504, y: 0.3143078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ef59018493e9041877dc17cc1d9b9f
+      internalID: 791303590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 523
+        width: 80
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5075346, y: 0.2285669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab57c1990138384094b2f991f9ce8a0
+      internalID: -1191389212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 523
+        width: 78
+        height: 35
+      alignment: 9
+      pivot: {x: 0.50229937, y: 0.15154332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c20e469df53c994cb39a61c945d065e
+      internalID: -1170981921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 523
+        width: 70
+        height: 35
+      alignment: 9
+      pivot: {x: 0.49466336, y: 0.14241943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae6b72fcd58dc745aa87a77bde8c024
+      internalID: 1315294277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 523
+        width: 60
+        height: 41
+      alignment: 9
+      pivot: {x: 0.495459, y: 0.15452017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79eca82f1b34ff468444455b58207a1
+      internalID: 216243622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 526
+        width: 60
+        height: 45
+      alignment: 9
+      pivot: {x: 0.494517, y: 0.07602946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a44491a796cf504bbe2bac5cc0381e1
+      internalID: 1360097482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_13
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 527
+        width: 61
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4838237, y: 0.05672472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca8cbc213115a47805856f3e66e060
+      internalID: 1008216963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 399
+        width: 61
+        height: 46
+      alignment: 9
+      pivot: {x: 0.47720674, y: 0.053487364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864456d8371fe784b91a49d20d75e049
+      internalID: -1375338428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 398
+        width: 61
+        height: 41
+      alignment: 9
+      pivot: {x: 0.48398054, y: 0.065024026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4899b418a94e4f83b348d58bb764c
+      internalID: -1182967533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 398
+        width: 61
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48398077, y: 0.08468781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8bb51ca4c9e854a864e6b0295da1d0
+      internalID: -700514642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 398
+        width: 61
+        height: 39
+      alignment: 9
+      pivot: {x: 0.49468493, y: 0.08436859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c14121b2bab972448e1c25b38b2a5aa
+      internalID: -2022510113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 398
+        width: 61
+        height: 39
+      alignment: 9
+      pivot: {x: 0.50320584, y: 0.07886994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338fc0eff913d444c8971b033efad12f
+      internalID: 2142109687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_19
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 398
+        width: 61
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5046747, y: 0.07596764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8161b8b0a52a742898e45db8b2bb10
+      internalID: 686248045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_20
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 398
+        width: 62
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48779494, y: 0.07659186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ae07a0a82f62498fb0f82ab499868
+      internalID: -381826592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 270
+        width: 62
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47342226, y: 0.055275656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c79bc7acbd40414aa5d0168ccff8a39
+      internalID: -2114305556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 270
+        width: 54
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5222499, y: 0.06146179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64cffb672faef4b911777302d55cc7
+      internalID: 834867109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 270
+        width: 50
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5284674, y: 0.049688164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc29b6b3cad5b042ad9bffaa9b48b3e
+      internalID: 2036353200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_24
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 270
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0.50634104, y: 0.047847494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd96751adca15a4e8fe949b05814cb1
+      internalID: 1813296854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 270
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5114372, y: 0.042941794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f215224067458469812d59ec77fbf2
+      internalID: -1065380082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_26
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 270
+        width: 43
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5275524, y: 0.046810962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08a9c978e2ee449bcc14562766687a
+      internalID: 1577720019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_27
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 270
+        width: 46
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5676721, y: 0.038197678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73383a1175b735e4a844ab8958333f9b
+      internalID: -1877832405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 142
+        width: 42
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6372268, y: 0.040524427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc118e46ad3f48646a568af1874c8a16
+      internalID: 1307477567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 142
+        width: 40
+        height: 71
+      alignment: 9
+      pivot: {x: 0.6751652, y: 0.028504923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede5bc9cd4b7fdd45a9d839f04c09428
+      internalID: -200869150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 142
+        width: 40
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6881401, y: 0.024240918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c4f5328af855e4e9654c77c1f09694
+      internalID: 1960551010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 142
+        width: 40
+        height: 71
+      alignment: 9
+      pivot: {x: 0.66927564, y: 0.035472818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea9d8bf69df6754abfe2fecdf5e2ab0
+      internalID: -1274977009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_32
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 142
+        width: 43
+        height: 67
+      alignment: 9
+      pivot: {x: 0.6405356, y: 0.03566799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163dced24f05ee4093c738eefb12db0
+      internalID: 474540784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_33
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 142
+        width: 49
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5472736, y: 0.032984335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d587b031a23ee9488957835cf97b87a
+      internalID: -854216478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 142
+        width: 57
+        height: 58
+      alignment: 9
+      pivot: {x: 0.48089707, y: 0.04007063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b4618dc77ddd4683e1ef05982a1df
+      internalID: 867206033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: 0.4963095, y: 0.023566326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b58471dbabd784796e53db766f464f
+      internalID: -559586639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 55
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5232147, y: 0.021197064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc76500c6df4e4fa144390f14c421e
+      internalID: 319412793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 12
+        width: 47
+        height: 66
+      alignment: 9
+      pivot: {x: 0.61253387, y: 0.05775875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241cfd109ed9b854da7b4ac5b6d18035
+      internalID: -1773758311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_38
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 12
+        width: 53
+        height: 70
+      alignment: 9
+      pivot: {x: 0.645095, y: 0.060569353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7d36265fda744e85020642f41fc9f
+      internalID: 754254692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_39
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 16
+        width: 63
+        height: 71
+      alignment: 9
+      pivot: {x: 0.684115, y: 0.012327786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f371a5f7e76a7428dceb329ac118b8
+      internalID: -43886081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_40
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 16
+        width: 65
+        height: 71
+      alignment: 9
+      pivot: {x: 0.6953031, y: 0.00945196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e19ec9c50f1e3943856afb60785a4de
+      internalID: -688616303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_risingFromFallen_anim_41
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 16
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7283599, y: 0.004939927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d79c23313825447904381a8b674e28
+      internalID: -1536714580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      penitent_risingFromFallen_anim_0: -941824035
+      penitent_risingFromFallen_anim_1: 755292999
+      penitent_risingFromFallen_anim_10: 1315294277
+      penitent_risingFromFallen_anim_11: 216243622
+      penitent_risingFromFallen_anim_12: 1360097482
+      penitent_risingFromFallen_anim_13: 1008216963
+      penitent_risingFromFallen_anim_14: -1375338428
+      penitent_risingFromFallen_anim_15: -1182967533
+      penitent_risingFromFallen_anim_16: -700514642
+      penitent_risingFromFallen_anim_17: -2022510113
+      penitent_risingFromFallen_anim_18: 2142109687
+      penitent_risingFromFallen_anim_19: 686248045
+      penitent_risingFromFallen_anim_2: -402329953
+      penitent_risingFromFallen_anim_20: -381826592
+      penitent_risingFromFallen_anim_21: -2114305556
+      penitent_risingFromFallen_anim_22: 834867109
+      penitent_risingFromFallen_anim_23: 2036353200
+      penitent_risingFromFallen_anim_24: 1813296854
+      penitent_risingFromFallen_anim_25: -1065380082
+      penitent_risingFromFallen_anim_26: 1577720019
+      penitent_risingFromFallen_anim_27: -1877832405
+      penitent_risingFromFallen_anim_28: 1307477567
+      penitent_risingFromFallen_anim_29: -200869150
+      penitent_risingFromFallen_anim_3: 855627607
+      penitent_risingFromFallen_anim_30: 1960551010
+      penitent_risingFromFallen_anim_31: -1274977009
+      penitent_risingFromFallen_anim_32: 474540784
+      penitent_risingFromFallen_anim_33: -854216478
+      penitent_risingFromFallen_anim_34: 867206033
+      penitent_risingFromFallen_anim_35: -559586639
+      penitent_risingFromFallen_anim_36: 319412793
+      penitent_risingFromFallen_anim_37: -1773758311
+      penitent_risingFromFallen_anim_38: 754254692
+      penitent_risingFromFallen_anim_39: -43886081
+      penitent_risingFromFallen_anim_4: 1938674524
+      penitent_risingFromFallen_anim_40: -688616303
+      penitent_risingFromFallen_anim_41: -1536714580
+      penitent_risingFromFallen_anim_5: -1007964261
+      penitent_risingFromFallen_anim_6: -1006994272
+      penitent_risingFromFallen_anim_7: 791303590
+      penitent_risingFromFallen_anim_8: -1191389212
+      penitent_risingFromFallen_anim_9: -1170981921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

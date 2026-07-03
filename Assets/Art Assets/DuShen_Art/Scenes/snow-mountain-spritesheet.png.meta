@@ -1,0 +1,2144 @@
+fileFormatVersion: 2
+guid: 21b17136ead0fff4eb006150894d7dee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 118
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3e59fdc6c21104c9418bbb0ac2a9f0
+      internalID: -408838492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 986
+        width: 133
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4836600eefc271438083641d23b7055
+      internalID: -75671010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 905
+        width: 85
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7964009e2283ac54c8ca3d914489a3b7
+      internalID: 1698443489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 906
+        width: 80
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc6c288da8246649ab82a5e4abd5560
+      internalID: -1140504690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 986
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb0a357176c5b49820b6e4135cb42d
+      internalID: 59079584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 956
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d6b5901218f34e922229900e0b367
+      internalID: -1773956682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 926
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f10da89dd59fc41baefd72e6e8759a
+      internalID: -329735592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 923
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4870e058ec7e1f4dbdb117cef9bda24
+      internalID: -625103045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 929
+        width: 118
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b877512a483ff46a6bc87352e02409
+      internalID: 851014140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 961
+        width: 137
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4cf2d54d65e044b8e6f9ef6348d46a
+      internalID: 2100147119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 943
+        width: 128
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3020fcb06d6704fa46d2b5679bf46c
+      internalID: -137242249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 917
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a989b2c89aa6a6244ba3843e229c343d
+      internalID: -478644179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 919
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc30c5665084fde4bbe77f4e750c88ad
+      internalID: 636813809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 902
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f016233482bc584d9f9752d90ed64c3
+      internalID: -2108302768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 921
+        width: 129
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e166ee83e2ac6f4c9cbd8f5c651d4f8
+      internalID: -283840252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 873
+        width: 122
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eff6e981d9b524418bf111f9b6cfa47
+      internalID: -1167439676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 867
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d0e24530bbdc46b50cf84bfb69134
+      internalID: 1231197031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 859
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9113629ce37ea49a049b452856e96b
+      internalID: 2026618988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 872
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5294fd0c640f71d40a21071b5aebe47a
+      internalID: -1444422342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 873
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4415481e92a0eb408de4c288b17f801
+      internalID: 1822295684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 869
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a23fca92e33a1940964a4e2e8369f40
+      internalID: -900553019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 882
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7419b6555cc6468ad8e8f520a6ee3
+      internalID: 301148400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 845
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a65581299cf06c4ca10049c94657f20
+      internalID: -354137833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 872
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a72a6a50e9bdb249aa3ae33bceb69f1
+      internalID: 1608356705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 897
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4b11f3050c8d44bbbc07bba3a19fd7
+      internalID: 1967049472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 836
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56e2a7281abd6645add15c6e08ab742
+      internalID: -1630951188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 876
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359587b78521d7944aaf7c8ca71752e5
+      internalID: -2006862687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 851
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a228f4718f24bbe488f5d636bf40c372
+      internalID: 495391273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 860
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935ce836c117fdd4884b3d04f56ec54d
+      internalID: 1625929366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 709
+        width: 131
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba108d4c0e73904d90f9ec59a132d2f
+      internalID: 1460831369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 825
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314e9ef3c41a4054db97c8e03d0a888f
+      internalID: 1366029833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 857
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0ae82a4c51f741b5015ee50499fcc
+      internalID: -1760268162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 840
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f68f3d790da174c82114f8f73f56f8
+      internalID: -1476583852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 819
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a33cce443e97964eb9cbf43c2462e49
+      internalID: 2089091859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 807
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1288624093cdd5047a2e2806f0d33741
+      internalID: 766527944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 825
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b082ed7859b45438de7fc8356dbf32
+      internalID: -1261004000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 739
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56aecda4eee456743a9efa4dbeaccb86
+      internalID: -1992355253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 807
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7297f1e97f3c544eb21f34a72895c66
+      internalID: 404221038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 807
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e062df7e8ea70c74d9c5d613e49c5860
+      internalID: -249026991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 768
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f230956b2cafcb44b635f18a4d6e77a
+      internalID: -349790642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 769
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87714f2e24456bd498e5523917c42a82
+      internalID: 1318407086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 752
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597bc77d33fae114fbdd44fed38b0ee8
+      internalID: 511152124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 606
+        width: 63
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c337f9cd2f5b37148937277cbd077a94
+      internalID: 1368593597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 649
+        width: 30
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e80e2612e101c74d86eb1d305e8a457
+      internalID: 1212033830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 622
+        width: 75
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd8dcf4035d5c499ddc93397de8582
+      internalID: 297552727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 646
+        width: 49
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af725ce4d71a5b4781af0cdee306c78
+      internalID: 825512020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 748
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dff55f3fe7de844b3e197215a3ef59
+      internalID: -831749567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 753
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba8aff90db7cd4aa19b88d9ff9379d
+      internalID: 208319195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 769
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7a1c80a94eac4cad815dd4328f6b9
+      internalID: 1395972840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 723
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c84c460e7e11d4cb7902c934b1ad62
+      internalID: -1862612072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 733
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd48a0b7229632c42b010026397aa21f
+      internalID: -1391550532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 685
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944a5022dd49524e9e54498be9224b9
+      internalID: -1879844526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 714
+        width: 71
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e4bb379aed7046beb29416a2b56ca
+      internalID: 1181980095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 420
+        width: 209
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fbc34a2f1674a43b1d85857df2ac7f
+      internalID: 1166058241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 574
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3149c9f972cc86a42b273885684b80ff
+      internalID: -1197362500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 427
+        width: 167
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2358d0ddd25a54d8fdaadc4cb862df
+      internalID: -453598234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 533
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c2133020de7b04b94eac35543bcfef
+      internalID: 1526624506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 531
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f3b65e125c0a34498161d1f438916d
+      internalID: -672838385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 543
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6950f7b7d092b42967e2ef697e5830
+      internalID: 1723861212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 521
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f3762fa39210c4da48a31c83a325be
+      internalID: 1408007892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 532
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98225793dcbbaaf469e7580a0ac0084a
+      internalID: 791520214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 513
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8001e2f7054e74a95202c7c3498620
+      internalID: -2062316282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 510
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf162977d7b197c42b915000e97188db
+      internalID: -34029667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 506
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2365e836ffc914cb8183f8a0a78f57
+      internalID: -1902807068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 216
+        width: 213
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e624977dcc4f0e41952ee697f3cdeed
+      internalID: 842277218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 254
+        width: 105
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fc3385220a5c14aa1d441971103f5b
+      internalID: 468574176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 174
+        width: 120
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdad765cab4dcf42be6c2713f794bf8
+      internalID: -1195841668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 224
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b13ab858c26ba1418e71d9ca0513be0
+      internalID: -1848938481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 220
+        width: 27
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94d336b42e7dc4429739b30b75ab41a
+      internalID: -1405127821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 241
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d008f837de724ebb888b2d0db1cb4
+      internalID: -454348644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 278
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeaed009176a224199f497688221c93
+      internalID: -804266866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 160
+        width: 139
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb26fbcc1b051a4db7addf8f1ebe839
+      internalID: 2060073989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 183
+        width: 87
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ddadc5cdebeac4b9470a594a1e4c45
+      internalID: 163576429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 182
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5fb7ab9188ef249b578110b71709f2
+      internalID: 355504905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 50
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83120657dc17e641a41f55294960ba0
+      internalID: 1425104808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 119
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7836fae6e3fd0ec4c81bb94922c52fe9
+      internalID: 50040811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 137
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b456d56e53acb6349a51ab462835a909
+      internalID: 119431901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 108
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3f32eb2b2dd814eac11f05e9f4909c
+      internalID: -914096589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 108
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0aeffab58f5c740a90e79781509f84
+      internalID: 899080610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 84
+        width: 91
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35eb3c3a434e24595afc3ffe3f6148
+      internalID: 1458956499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 92
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3126c35a4157d647855ec4dfd8aede4
+      internalID: -733775062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 64
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6f3b938af57e94fa414a59711bba87
+      internalID: -1513277311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 49
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7169d9230f6af7f4e866b79315755a1b
+      internalID: -1876663924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 5
+        width: 124
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24400468d0c5e4893fb2201ccc96fc
+      internalID: -90350060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 20
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9e847a41ca9a34cb835035f1e1cd96
+      internalID: 959030783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 842
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7023eb8e40af4f928d0493912b90d
+      internalID: 1758700654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 838
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2c4d469411de1499e8cb7fc529fdb6
+      internalID: 1430442456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 911
+        width: 75
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d09891bfad13428dc877127dd1684
+      internalID: 971803125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 857
+        width: 11
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16447d7cfc8b0043840f8e0541cd04c
+      internalID: 1685359218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 792
+        width: 3
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f3bf2caef9bf54eb4f38a32d2f0c6c
+      internalID: -985502401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 579
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df4f313e9fa224b9c6df4ab97b1d98
+      internalID: 1780656186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-mountain-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 507
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c4328f8fdccc84ca499abbf9fed47f
+      internalID: -1987711442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      snow-mountain-spritesheet_0: -408838492
+      snow-mountain-spritesheet_1: -75671010
+      snow-mountain-spritesheet_10: -137242249
+      snow-mountain-spritesheet_11: -478644179
+      snow-mountain-spritesheet_12: 636813809
+      snow-mountain-spritesheet_13: -2108302768
+      snow-mountain-spritesheet_14: -283840252
+      snow-mountain-spritesheet_15: -1167439676
+      snow-mountain-spritesheet_16: 1231197031
+      snow-mountain-spritesheet_17: 2026618988
+      snow-mountain-spritesheet_18: -1444422342
+      snow-mountain-spritesheet_19: 1822295684
+      snow-mountain-spritesheet_2: 1698443489
+      snow-mountain-spritesheet_20: -900553019
+      snow-mountain-spritesheet_21: 301148400
+      snow-mountain-spritesheet_22: -354137833
+      snow-mountain-spritesheet_23: 1430442456
+      snow-mountain-spritesheet_24: 971803125
+      snow-mountain-spritesheet_25: 1608356705
+      snow-mountain-spritesheet_26: 1967049472
+      snow-mountain-spritesheet_27: -1630951188
+      snow-mountain-spritesheet_28: -2006862687
+      snow-mountain-spritesheet_29: 495391273
+      snow-mountain-spritesheet_3: -1140504690
+      snow-mountain-spritesheet_30: 1625929366
+      snow-mountain-spritesheet_31: 1460831369
+      snow-mountain-spritesheet_32: 1366029833
+      snow-mountain-spritesheet_33: -1760268162
+      snow-mountain-spritesheet_34: 1780656186
+      snow-mountain-spritesheet_35: -1987711442
+      snow-mountain-spritesheet_36: -1476583852
+      snow-mountain-spritesheet_37: 2089091859
+      snow-mountain-spritesheet_38: 1758700654
+      snow-mountain-spritesheet_39: 1685359218
+      snow-mountain-spritesheet_4: 59079584
+      snow-mountain-spritesheet_40: 766527944
+      snow-mountain-spritesheet_41: -1261004000
+      snow-mountain-spritesheet_42: -985502401
+      snow-mountain-spritesheet_43: 8384595
+      snow-mountain-spritesheet_44: -1992355253
+      snow-mountain-spritesheet_45: 404221038
+      snow-mountain-spritesheet_46: -249026991
+      snow-mountain-spritesheet_47: -349790642
+      snow-mountain-spritesheet_48: 1318407086
+      snow-mountain-spritesheet_49: 511152124
+      snow-mountain-spritesheet_5: -1773956682
+      snow-mountain-spritesheet_50: 1368593597
+      snow-mountain-spritesheet_51: 1212033830
+      snow-mountain-spritesheet_52: 297552727
+      snow-mountain-spritesheet_53: 825512020
+      snow-mountain-spritesheet_54: -831749567
+      snow-mountain-spritesheet_55: 208319195
+      snow-mountain-spritesheet_56: 1395972840
+      snow-mountain-spritesheet_57: -1862612072
+      snow-mountain-spritesheet_58: -1391550532
+      snow-mountain-spritesheet_59: -1879844526
+      snow-mountain-spritesheet_6: -329735592
+      snow-mountain-spritesheet_60: 1181980095
+      snow-mountain-spritesheet_61: 1166058241
+      snow-mountain-spritesheet_62: -2020677956
+      snow-mountain-spritesheet_63: -1232351924
+      snow-mountain-spritesheet_64: -1197362500
+      snow-mountain-spritesheet_65: -453598234
+      snow-mountain-spritesheet_66: 1526624506
+      snow-mountain-spritesheet_67: -672838385
+      snow-mountain-spritesheet_68: 1723861212
+      snow-mountain-spritesheet_69: 1408007892
+      snow-mountain-spritesheet_7: -625103045
+      snow-mountain-spritesheet_70: 879474804
+      snow-mountain-spritesheet_71: 791520214
+      snow-mountain-spritesheet_72: -2062316282
+      snow-mountain-spritesheet_73: -34029667
+      snow-mountain-spritesheet_74: -1902807068
+      snow-mountain-spritesheet_75: 1706791159
+      snow-mountain-spritesheet_76: 1648079274
+      snow-mountain-spritesheet_77: 842277218
+      snow-mountain-spritesheet_78: 468574176
+      snow-mountain-spritesheet_79: -1195841668
+      snow-mountain-spritesheet_8: 851014140
+      snow-mountain-spritesheet_80: -1848938481
+      snow-mountain-spritesheet_81: -1405127821
+      snow-mountain-spritesheet_82: -454348644
+      snow-mountain-spritesheet_83: -804266866
+      snow-mountain-spritesheet_84: 2060073989
+      snow-mountain-spritesheet_85: 163576429
+      snow-mountain-spritesheet_86: 355504905
+      snow-mountain-spritesheet_87: 1425104808
+      snow-mountain-spritesheet_88: 50040811
+      snow-mountain-spritesheet_89: 119431901
+      snow-mountain-spritesheet_9: 2100147119
+      snow-mountain-spritesheet_90: -914096589
+      snow-mountain-spritesheet_91: 899080610
+      snow-mountain-spritesheet_92: 1458956499
+      snow-mountain-spritesheet_93: -733775062
+      snow-mountain-spritesheet_94: -1513277311
+      snow-mountain-spritesheet_95: -1876663924
+      snow-mountain-spritesheet_96: -90350060
+      snow-mountain-spritesheet_97: 959030783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

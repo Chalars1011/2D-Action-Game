@@ -1,0 +1,1424 @@
+fileFormatVersion: 2
+guid: 17a0a59177ff4724b9f97b29cb2cdff2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 985
+        width: 64
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1debd58fabb8c54c8d1a6e19604cbcb
+      internalID: -510757949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 984
+        width: 65
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe795349958e343a1b851c3484a977
+      internalID: 2116985722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 987
+        width: 65
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfcccda171db694c8eb645146f8b1c8
+      internalID: 895787230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 953
+        width: 90
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f989ffe72f124cd40b6c8a8ee2e7efb8
+      internalID: -805922921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 940
+        width: 245
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38d6ac97efe9d449177a7c5e52d0d4
+      internalID: -1599855184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 930
+        width: 239
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab84a320c0f2e745a29cf9be9264993
+      internalID: 105561358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 944
+        width: 142
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8e6e9eda201b4299546408fc1f03c
+      internalID: -501331171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 962
+        width: 32
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e291118f35377b4dabb32f698d923b1
+      internalID: 1707565109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 951
+        width: 46
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc4b36b5654cea45bf01084ce799720
+      internalID: 159702908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 897
+        width: 45
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9347ea26e20f4c468c6256131e8ed7d
+      internalID: 1330656386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 950
+        width: 55
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9024eb86096e52d44a4881250e93be40
+      internalID: -139597535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 949
+        width: 61
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c3fb15736e82418f9d6682ba71308
+      internalID: -2009851698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 926
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf05dd0aef961b4f9d447f2180f9ee6
+      internalID: 1769305253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 900
+        width: 45
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac1c05ae04f8cc4f8b3fc38d4b589a6
+      internalID: 1665423304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 882
+        width: 50
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701d7cd0188e97c47969e915ac06ef2f
+      internalID: -1747165429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 753
+        width: 32
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9b1b054e94aa5419b6f88e5ec0cbe9
+      internalID: 1886565285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 896
+        width: 61
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3ece99bc347fd4aaa1aac8acdf474f
+      internalID: 1041102243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 839
+        width: 185
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703268f14613874d8aeec5eb191f422
+      internalID: 1021831177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 863
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961297533cc6dea479c2d0e97768ccf9
+      internalID: 438227714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 858
+        width: 153
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7568835cf831241a74e9c5319608f2
+      internalID: -166894998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 847
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed403fabcaa7084e9b9efbdad2c7dfd
+      internalID: 1375702532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 889
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb7fddb08270fc4395fb9faef40d999
+      internalID: -1306317976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 884
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d22b020f51004d408c6c1e418ff7575
+      internalID: 1143526696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 799
+        width: 85
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83dbb691a32ec40b65294d4591166b
+      internalID: -1587176898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 814
+        width: 35
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d799d43972b0e498a3d622f3615607
+      internalID: 2141415918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 756
+        width: 32
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2facda106dae440844b4ca0e340bae
+      internalID: 255500884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 816
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d2d67bda976cf41b9c1deddbb62528
+      internalID: 984407756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 747
+        width: 185
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc589f365159cb64d98fc8d2bb988716
+      internalID: 320941862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 762
+        width: 242
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cc717edfbb0844583f034d6a3c5f31
+      internalID: -918945930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 808
+        width: 62
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3614373769371b04d97b22a4aa35560c
+      internalID: -1921071510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 598
+        width: 73
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a33a504acbd63e4596d9906ca9ef494
+      internalID: -835245087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 598
+        width: 77
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511301a4fcf9c1c4aaedd8de8f33bc42
+      internalID: 1499245444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 753
+        width: 65
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfdcd87d38b31e4e97f37bbadf67b04
+      internalID: 424211083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 570
+        width: 86
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db05cb28c12c594c99ea038d7a9ac7f
+      internalID: -1799831683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 711
+        width: 127
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de0745849e3e640868da812e53387d
+      internalID: -628851467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 704
+        width: 64
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc013e0ea1f1c49990da4340d313a2
+      internalID: -505418835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 644
+        width: 113
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d6b4539ac597446ab7dc3c9e1c17aa
+      internalID: 1466504153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 680
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b6eff859ecd64a8700b18cab3f372
+      internalID: 193462826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 569
+        width: 28
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbbd1a8023333a43be47f76884adb2d
+      internalID: -1790918392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 591
+        width: 217
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e704904cf05fb947ac73ae9d74426ff
+      internalID: -590699919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 619
+        width: 62
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05db5590e91fa994dad2163bd137df5e
+      internalID: 44620354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 594
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480146b6aa558d446a4519ef3b4f197b
+      internalID: -24049645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 568
+        width: 101
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266d4dfbba8814647a25f9c1a2edad1d
+      internalID: 1256575960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 595
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f415fcbcd7397747b05ab86f0d4ad60
+      internalID: -842304664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 605
+        width: 9
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faeb363e895b814c9440850072c9140
+      internalID: -787852744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 165
+        width: 105
+        height: 423
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc96bebb60bccd4cb593b0d232b606a
+      internalID: 495635956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 165
+        width: 106
+        height: 423
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89918de1c12beea4bae8e40b704310a1
+      internalID: 749477236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 165
+        width: 106
+        height: 423
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f884ff2e4273f449aaad49c698f7d58
+      internalID: -2016137703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 391
+        width: 72
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d23d855d571943a8f77c8d0e339c7
+      internalID: -1900995605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 549
+        width: 71
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff406bfeb9aa794fb7d789b4c53fd6c
+      internalID: 520403289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 484
+        width: 32
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255c381d08b711241b589cd3e25d8c27
+      internalID: 989253977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 448
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558b27aa14378e643b3df63fac0315bd
+      internalID: 348304589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 406
+        width: 45
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0df936c35ca93744a20b1831e147649
+      internalID: 529945481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 315
+        width: 16
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9bcf454b0b5e4fbebc17d07cdf0bd
+      internalID: -1121252850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 173
+        width: 18
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e750f9503075749bd52bd3850b0aca
+      internalID: 1603248185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 7
+        width: 606
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1273d2fcc9eb4d940facb158c1fc3
+      internalID: -1835100000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 329
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b304c81341efce74d9cc32ebdc67a982
+      internalID: 658228231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 725
+        width: 141
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9995be8050828df4f81136842bc7689b
+      internalID: 1921919409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brotherhood-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 710
+        width: 141
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92bcadf5b68c554f9b46e15598943d0
+      internalID: 1102008829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      brotherhood-spritesheet_0: -510757949
+      brotherhood-spritesheet_1: 2116985722
+      brotherhood-spritesheet_10: -139597535
+      brotherhood-spritesheet_11: -2009851698
+      brotherhood-spritesheet_12: 1769305253
+      brotherhood-spritesheet_13: 1665423304
+      brotherhood-spritesheet_14: -1747165429
+      brotherhood-spritesheet_15: 1886565285
+      brotherhood-spritesheet_16: 1041102243
+      brotherhood-spritesheet_17: 1021831177
+      brotherhood-spritesheet_18: 438227714
+      brotherhood-spritesheet_19: -166894998
+      brotherhood-spritesheet_2: 895787230
+      brotherhood-spritesheet_20: 1375702532
+      brotherhood-spritesheet_21: -1306317976
+      brotherhood-spritesheet_22: 1143526696
+      brotherhood-spritesheet_23: -1587176898
+      brotherhood-spritesheet_24: 2141415918
+      brotherhood-spritesheet_25: 255500884
+      brotherhood-spritesheet_26: 984407756
+      brotherhood-spritesheet_27: 320941862
+      brotherhood-spritesheet_28: -918945930
+      brotherhood-spritesheet_29: -1921071510
+      brotherhood-spritesheet_3: -805922921
+      brotherhood-spritesheet_30: -835245087
+      brotherhood-spritesheet_31: 1499245444
+      brotherhood-spritesheet_32: 424211083
+      brotherhood-spritesheet_33: -1799831683
+      brotherhood-spritesheet_34: -628851467
+      brotherhood-spritesheet_35: -505418835
+      brotherhood-spritesheet_36: 1466504153
+      brotherhood-spritesheet_37: 962741824
+      brotherhood-spritesheet_38: -498604727
+      brotherhood-spritesheet_39: 1584979337
+      brotherhood-spritesheet_4: -1599855184
+      brotherhood-spritesheet_40: 310024732
+      brotherhood-spritesheet_41: 374362750
+      brotherhood-spritesheet_42: 378796172
+      brotherhood-spritesheet_43: 193462826
+      brotherhood-spritesheet_44: -1790918392
+      brotherhood-spritesheet_45: 1116944966
+      brotherhood-spritesheet_46: 2140982294
+      brotherhood-spritesheet_47: -639706354
+      brotherhood-spritesheet_48: -1668298818
+      brotherhood-spritesheet_49: 1725684253
+      brotherhood-spritesheet_5: 105561358
+      brotherhood-spritesheet_50: 2130236257
+      brotherhood-spritesheet_51: -590699919
+      brotherhood-spritesheet_52: 44620354
+      brotherhood-spritesheet_53: -24049645
+      brotherhood-spritesheet_54: 1256575960
+      brotherhood-spritesheet_55: -842304664
+      brotherhood-spritesheet_56: -787852744
+      brotherhood-spritesheet_57: 495635956
+      brotherhood-spritesheet_58: 749477236
+      brotherhood-spritesheet_59: -2016137703
+      brotherhood-spritesheet_6: -501331171
+      brotherhood-spritesheet_60: -1900995605
+      brotherhood-spritesheet_61: 520403289
+      brotherhood-spritesheet_62: 989253977
+      brotherhood-spritesheet_63: 348304589
+      brotherhood-spritesheet_64: 529945481
+      brotherhood-spritesheet_65: -1121252850
+      brotherhood-spritesheet_66: 1603248185
+      brotherhood-spritesheet_67: -1835100000
+      brotherhood-spritesheet_68: 658228231
+      brotherhood-spritesheet_69: 1921919409
+      brotherhood-spritesheet_7: 1707565109
+      brotherhood-spritesheet_70: 1102008829
+      brotherhood-spritesheet_8: 159702908
+      brotherhood-spritesheet_9: 1330656386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

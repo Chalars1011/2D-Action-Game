@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 63ae8b3a4215d90428c2b29052b63e4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave-room-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 887
+        width: 186
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a1584cc8025864d8d7c69bb76e3f4e
+      internalID: -1842091636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 983
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1e37eebbc53b4ba61bedb10d5d4f5
+      internalID: 1797624953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 615
+        width: 187
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e67e4fbe243d14288d2ad3da9b404d
+      internalID: 1596036876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 736
+        width: 235
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7af1bbc66c6654e8da5099eca5be83
+      internalID: 558815527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 800
+        width: 31
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7afdd639a9f7247a688efc5fd49b62
+      internalID: 787639705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 832
+        width: 18
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18251ef41ac550145a3e25a3b6f6b4c0
+      internalID: 2026545838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 881
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ea96376f0f33746b27c9d849a213e5
+      internalID: 1145033704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 945
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a825bec694186449cb766ca2e89700
+      internalID: -361568671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 922
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c43e798aab341409aa8f155ac89a25
+      internalID: -1686096173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 905
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febe20a0cdc28c44e8d57177e2428d28
+      internalID: -2054498825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 915
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a074e398f8fff48b2daff24320b549
+      internalID: -1606778877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 895
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bae255812d9af4ca0032f7786b33eb
+      internalID: 626520077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 669
+        width: 321
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3cc18e3d7d911468ca5cc2a1cc411c
+      internalID: -1624381877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 864
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac2a6093349954abfd1a9f38748f38
+      internalID: -163350465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 867
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bbbaeb886965642a71675f9e86ae59
+      internalID: -1933138744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 849
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae7fad41df63b04ca1c7a1e2691610f
+      internalID: -2039731686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 844
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba94eb89a1fe44489c28f83b8a4567b
+      internalID: -1240686000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 847
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68fe292ff706ec43b07e9754477925b
+      internalID: 1469680557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 842
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8318041d1cb964cba096650a86124a
+      internalID: 721660651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 846
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d571ea65f55eac2408bb6b7bda375245
+      internalID: -86043781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 854
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb7311775694443b7f72acb572cda4
+      internalID: 573349601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 848
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505a0f0d10ecb8a4b8d7444483c40d28
+      internalID: 1220057719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 852
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0681b54c1bf6cab4d8b31c018bd2ab66
+      internalID: 507717224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 852
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e51d8c4e48743b4e85d7ebf5b8ac2d1
+      internalID: -1231184395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 844
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1834f90d8dc8d8345bf5993bc52391f8
+      internalID: 367388104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 841
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710aa45d9b6824a4d824192059354a28
+      internalID: -1200310738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 844
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e6a5518e0daf240b50250fe7ca80a4
+      internalID: 1502901377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 844
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c5ca9630fe104b83ddd32fdec2b34
+      internalID: -728427924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 839
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b9619a8196e6a41b10bae1c2b8073b
+      internalID: -1153189427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 843
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a555f676d2ad24eb2c0679afed43c1
+      internalID: 176294203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 838
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ea6121b1aef654da4be0d7927d5a89
+      internalID: 1528511726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 833
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e5559d4085084bb9902c1e4cc3090
+      internalID: -1412581716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 838
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596ca924628d4e34aa99f9989fb0c358
+      internalID: 800242708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 777
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df7538e4571ce4e943cd3c363c1db1
+      internalID: -1788605291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 535
+        width: 186
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810268671796e014baea95da09ed0226
+      internalID: -158743914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 534
+        width: 123
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a4a8858d32f7a4b8980902d60826e7
+      internalID: 507739142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 478
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3592cde9924c1b4992e89fe090f2acc
+      internalID: -1938866725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 362
+        width: 230
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3649e3dddd8684b8915781d53a423a
+      internalID: -109577886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 396
+        width: 117
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8149ad49447cb4842bc023e75aa94545
+      internalID: 404390211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 311
+        width: 269
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5874483048376fd4e97370378a721d3d
+      internalID: 490140603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 215
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f807138aff08c247be5af64444e2e2f
+      internalID: 234303516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 161
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2837e5c33ba37444b755962b109205d
+      internalID: 1318166544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 23
+        width: 375
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80702c38ec317664ab24daf33c9075bb
+      internalID: -1428698617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4384b0f3e0f888b44ae5c2a0e38d6e14
+      internalID: 1006484848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 10
+        width: 138
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef4cfe8f0c35644b83706205bfdbf5
+      internalID: 1901995161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 988
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7c6c150f81a644ae2fd2e8b31bd89
+      internalID: -821873061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 988
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df2556f9fb9b2b43a70e798ad05fa8c
+      internalID: 1212931624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 946
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240614fff6c27114c96c5fdaad127a1c
+      internalID: 2075588499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 948
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d276ec975c49f45ad4edde57e52a2d
+      internalID: -1005046502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-room-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 909
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada5aea6fac1ba4b81d5ab357088adc
+      internalID: 384766628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cave-room-spritesheet_0: -1842091636
+      cave-room-spritesheet_1: 1797624953
+      cave-room-spritesheet_10: 2026545838
+      cave-room-spritesheet_11: 1145033704
+      cave-room-spritesheet_12: -1101990727
+      cave-room-spritesheet_13: 2005125788
+      cave-room-spritesheet_14: -361568671
+      cave-room-spritesheet_15: -1951475073
+      cave-room-spritesheet_16: -669346187
+      cave-room-spritesheet_17: -170266134
+      cave-room-spritesheet_18: 1948250421
+      cave-room-spritesheet_19: 1104588152
+      cave-room-spritesheet_2: 2075588499
+      cave-room-spritesheet_20: -306687262
+      cave-room-spritesheet_21: -1686096173
+      cave-room-spritesheet_22: -2054498825
+      cave-room-spritesheet_23: -573751277
+      cave-room-spritesheet_24: 44096897
+      cave-room-spritesheet_25: 1702192385
+      cave-room-spritesheet_26: -1606778877
+      cave-room-spritesheet_27: -1978332284
+      cave-room-spritesheet_28: -514713720
+      cave-room-spritesheet_29: 626520077
+      cave-room-spritesheet_3: -1005046502
+      cave-room-spritesheet_30: -1624381877
+      cave-room-spritesheet_31: -163350465
+      cave-room-spritesheet_32: -1933138744
+      cave-room-spritesheet_33: -2039731686
+      cave-room-spritesheet_34: -1240686000
+      cave-room-spritesheet_35: 1469680557
+      cave-room-spritesheet_36: 721660651
+      cave-room-spritesheet_37: -86043781
+      cave-room-spritesheet_38: 573349601
+      cave-room-spritesheet_39: 1220057719
+      cave-room-spritesheet_4: 1212931624
+      cave-room-spritesheet_40: 507717224
+      cave-room-spritesheet_41: -1231184395
+      cave-room-spritesheet_42: 367388104
+      cave-room-spritesheet_43: -1200310738
+      cave-room-spritesheet_44: 1502901377
+      cave-room-spritesheet_45: -728427924
+      cave-room-spritesheet_46: -1153189427
+      cave-room-spritesheet_47: 176294203
+      cave-room-spritesheet_48: 1528511726
+      cave-room-spritesheet_49: -1412581716
+      cave-room-spritesheet_5: 384766628
+      cave-room-spritesheet_50: 800242708
+      cave-room-spritesheet_51: -1788605291
+      cave-room-spritesheet_52: -158743914
+      cave-room-spritesheet_53: 507739142
+      cave-room-spritesheet_54: -1938866725
+      cave-room-spritesheet_55: -109577886
+      cave-room-spritesheet_56: 404390211
+      cave-room-spritesheet_57: 490140603
+      cave-room-spritesheet_58: 234303516
+      cave-room-spritesheet_59: 1318166544
+      cave-room-spritesheet_6: -980190504
+      cave-room-spritesheet_60: -1428698617
+      cave-room-spritesheet_61: 1006484848
+      cave-room-spritesheet_62: 1901995161
+      cave-room-spritesheet_63: -821873061
+      cave-room-spritesheet_7: 1596036876
+      cave-room-spritesheet_8: 558815527
+      cave-room-spritesheet_9: 787639705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

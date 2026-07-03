@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 035ab67d97818fa4fbf7f908423ec7b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 268
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.71773493, y: 0.019890679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d2f3647b86cc244aaba01ea9206dd4
+      internalID: 408957069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 268
+        width: 67
+        height: 71
+      alignment: 9
+      pivot: {x: 0.7167044, y: 0.022845631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac144c0392f493b4cb1b827be61181dc
+      internalID: -1154580775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 268
+        width: 66
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6976198, y: 0.024869647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9f28e215f4e2e4fb1d55b9d8e83762
+      internalID: 118326716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 268
+        width: 53
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6038565, y: 0.02111728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e92aa9025613647ace0db7310c102f
+      internalID: 1547429979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_4
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 268
+        width: 47
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5351121, y: 0.019877115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7957e8a348eeb47438d4488a6b327c5a
+      internalID: 1491806166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_5
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 268
+        width: 46
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5357639, y: 0.028512072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dfc1e6899519249946781c0d9cc9e1
+      internalID: -1285159920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_6
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 268
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.47418213, y: 0.018484497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b42f91ebce0d64096c6d33936d6825
+      internalID: -1823235358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_7
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 268
+        width: 41
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6244313, y: 0.023837324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305792409cec2458ae2b2a7d6233d8
+      internalID: 96877472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 140
+        width: 62
+        height: 69
+      alignment: 9
+      pivot: {x: 0.686332, y: 0.020659074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b96eff4482afdf499b808f4fd5f1888
+      internalID: 1368080215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_9
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 140
+        width: 60
+        height: 81
+      alignment: 9
+      pivot: {x: 0.56314695, y: 0.019255461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe1dc86f821225499c525a7e1924955
+      internalID: -1064360556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 139
+        width: 125
+        height: 106
+      alignment: 9
+      pivot: {x: 0.25973046, y: 0.018120963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f18bc9ac52c904cbcbef7bf88b4273
+      internalID: 1120656407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_11
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 139
+        width: 125
+        height: 99
+      alignment: 9
+      pivot: {x: 0.1785332, y: 0.018118655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ee3bfdeab2c6244b2dd8cc544565d7
+      internalID: -1989868845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_12
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 139
+        width: 129
+        height: 89
+      alignment: 9
+      pivot: {x: 0.17302947, y: 0.024706895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed59925debd4e0478827be890d88efb
+      internalID: 1524800082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_13
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 139
+        width: 130
+        height: 92
+      alignment: 9
+      pivot: {x: 0.16674992, y: 0.019871255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadc9f2abb5ecd144b0d8295fac188f4
+      internalID: 1137858700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_15
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 204
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c63414eacf64d4faca01bbc5f19e30
+      internalID: -2049895862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_16
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 139
+        width: 131
+        height: 93
+      alignment: 9
+      pivot: {x: 0.16897047, y: 0.019753404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b960724dc34f454b8a2b5cb9dab05f1
+      internalID: -122058408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_18
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 140
+        width: 133
+        height: 89
+      alignment: 9
+      pivot: {x: 0.17340317, y: 0.016056703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37caf9a070d0a9c4c970244682c4285d
+      internalID: 1168195892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 133
+        height: 86
+      alignment: 9
+      pivot: {x: 0.15956528, y: 0.011665898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526d594144009b4bb5afb6cd107c8ab
+      internalID: -453782633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_34
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 12
+        width: 135
+        height: 78
+      alignment: 9
+      pivot: {x: 0.16462855, y: 0.018416453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4128ed72101cd2049bcbaf9d16e21d56
+      internalID: -656232583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_36
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 12
+        width: 142
+        height: 70
+      alignment: 9
+      pivot: {x: 0.18295418, y: 0.026800428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4707a50a985fe746877352e122cd88b
+      internalID: -1508580164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_parry_counter_v2_anim_37
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 12
+        width: 140
+        height: 73
+      alignment: 9
+      pivot: {x: 0.32265058, y: 0.027611222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d0acc02c9ebd4297fd6b2fef480de
+      internalID: -296722186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      penitent_parry_counter_v2_anim_0: 408957069
+      penitent_parry_counter_v2_anim_1: -1154580775
+      penitent_parry_counter_v2_anim_10: 1120656407
+      penitent_parry_counter_v2_anim_11: -1989868845
+      penitent_parry_counter_v2_anim_12: 1524800082
+      penitent_parry_counter_v2_anim_13: 1137858700
+      penitent_parry_counter_v2_anim_14: -1999604051
+      penitent_parry_counter_v2_anim_15: -2049895862
+      penitent_parry_counter_v2_anim_16: -122058408
+      penitent_parry_counter_v2_anim_17: 1618390741
+      penitent_parry_counter_v2_anim_18: 1168195892
+      penitent_parry_counter_v2_anim_19: -1056738444
+      penitent_parry_counter_v2_anim_2: 118326716
+      penitent_parry_counter_v2_anim_20: -1722637254
+      penitent_parry_counter_v2_anim_21: 1876986909
+      penitent_parry_counter_v2_anim_22: -1888971655
+      penitent_parry_counter_v2_anim_23: 345100184
+      penitent_parry_counter_v2_anim_24: -459136613
+      penitent_parry_counter_v2_anim_25: 386871985
+      penitent_parry_counter_v2_anim_26: -114962619
+      penitent_parry_counter_v2_anim_27: -1118284681
+      penitent_parry_counter_v2_anim_28: 2078420461
+      penitent_parry_counter_v2_anim_29: 134245561
+      penitent_parry_counter_v2_anim_3: 1547429979
+      penitent_parry_counter_v2_anim_30: -109186824
+      penitent_parry_counter_v2_anim_31: -1312793441
+      penitent_parry_counter_v2_anim_32: -689734994
+      penitent_parry_counter_v2_anim_33: -453782633
+      penitent_parry_counter_v2_anim_34: -656232583
+      penitent_parry_counter_v2_anim_35: -375293604
+      penitent_parry_counter_v2_anim_36: -1508580164
+      penitent_parry_counter_v2_anim_37: -296722186
+      penitent_parry_counter_v2_anim_38: -969757976
+      penitent_parry_counter_v2_anim_39: 155319148
+      penitent_parry_counter_v2_anim_4: 1491806166
+      penitent_parry_counter_v2_anim_40: 621372409
+      penitent_parry_counter_v2_anim_41: -747629755
+      penitent_parry_counter_v2_anim_42: -544290628
+      penitent_parry_counter_v2_anim_43: -145464207
+      penitent_parry_counter_v2_anim_44: 1969095235
+      penitent_parry_counter_v2_anim_45: 762043867
+      penitent_parry_counter_v2_anim_46: 1146275963
+      penitent_parry_counter_v2_anim_47: 1964186121
+      penitent_parry_counter_v2_anim_48: 218147375
+      penitent_parry_counter_v2_anim_49: -616177155
+      penitent_parry_counter_v2_anim_5: -1285159920
+      penitent_parry_counter_v2_anim_50: 196706888
+      penitent_parry_counter_v2_anim_51: -1632760922
+      penitent_parry_counter_v2_anim_52: 153505870
+      penitent_parry_counter_v2_anim_53: -1556953266
+      penitent_parry_counter_v2_anim_54: -1296792155
+      penitent_parry_counter_v2_anim_55: -2076016891
+      penitent_parry_counter_v2_anim_56: -1056516687
+      penitent_parry_counter_v2_anim_6: -1823235358
+      penitent_parry_counter_v2_anim_7: 96877472
+      penitent_parry_counter_v2_anim_8: 1368080215
+      penitent_parry_counter_v2_anim_9: -1064360556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

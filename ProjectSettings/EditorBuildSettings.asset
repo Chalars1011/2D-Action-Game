@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Game/Scenes/1_start.unity
+    guid: 4307a2ff16256c445ab79cbee124e271
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_1.unity
+    guid: 8fc301d7afdddf6419ec15ad297e90fb
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_2.unity
+    guid: 92a282ff326b38340ac0676a77dcb3c6
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_3.unity
+    guid: 67ca7cfe351b7e34190bbebadec4ce6f
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_4.unity
+    guid: 791269d066a826041b4ff09b701ea794
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_5.unity
+    guid: fdc772ba25a74ea4cb747132ed6878be
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_6.unity
+    guid: df883e793cf67884b86c14483377abc6
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_7.unity
+    guid: 0cac9a234a6e84641b2774ee806f9d8c
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_8.unity
+    guid: 2824a7ff5b9c94e4a81e338318d46ad5
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_9.unity
+    guid: 7310a7d203c8a1148aa0bc89d2d1917a
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_10.unity
+    guid: cc6183df0fef83f4388c2e1b6dbded11
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_11.unity
+    guid: 9973f69135d4f0346be4b832a491f5b4
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_13.unity
+    guid: a037c33be4e6a3d4f9ab3c9465e1d675
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_14.unity
+    guid: c0bbb02e18384ae4bbea628258f2a34b
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_15.unity
+    guid: 311f6b69dab166749930cf3599b4eb3e
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_16.unity
+    guid: 58b3b8cdceeeb7a4a8eb2ea3b391925e
+  - enabled: 1
+    path: Assets/_Game/Scenes/DuShen_17.unity
+    guid: 02553e9e68d3e384dacaadb6cac44bce
+  m_configObjects: {}

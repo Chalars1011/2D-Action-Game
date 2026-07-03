@@ -1,0 +1,887 @@
+fileFormatVersion: 2
+guid: f2b06043d3410e14f96f9709e5b976cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 983
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2728b0b42872608479e1199fc4240ae0
+      internalID: -1048064513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 983
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e3830a8210ef545bc931dd94a0e4be
+      internalID: 1392563242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 981
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cec2cb3b05c0441894c8830b2751cb
+      internalID: -712165509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 981
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3775767c444ca9f4d9da9e4418ca47ff
+      internalID: -826637981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 965
+        width: 158
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4551b3f71c67974bba31b02e5bc37cc
+      internalID: -858445056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 965
+        width: 165
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75430568d28ed574ba24155995028905
+      internalID: -1057840456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 994
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914baf15a78938c4cb83ca59b5dc6a78
+      internalID: 1075409560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 994
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f46e23f8d3953345991a92bf0e318f4
+      internalID: 2082632275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 994
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20598571ff4344b8f2802e1c79dd19
+      internalID: 1544705188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 994
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a3a03ce462e5a419a11cc90856d35f
+      internalID: 1297856052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 906
+        width: 132
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d50643160f5dd141a41494899d0be48
+      internalID: 1875560742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 805
+        width: 44
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c3685bd6c89bf4cb821da23db5034e
+      internalID: -2031688563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 818
+        width: 44
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329964756b5923418f7a76a0f6664dd
+      internalID: 773584714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a5507357b025d4ca9274c5c008eb55
+      internalID: -1006696483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 974
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f723b6844dc2a7d42b7c061208456d5b
+      internalID: 1501274165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 979
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a70be5495b524db5ef5f6dc156c71
+      internalID: -399041297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 975
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb23842a4a45cef48ba50a2d5fbfa1ff
+      internalID: -1977119227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 811
+        width: 54
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743d04dc90d25494680a22decfa5bec8
+      internalID: 1982542976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 811
+        width: 54
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c88c27256400a243824c767697bb7af
+      internalID: -1998526509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 797
+        width: 158
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1424395bec8fc5e46b2dface4c9174f6
+      internalID: 243680153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 797
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a49ad5f5980b4baa8eba4b17671e3
+      internalID: 252134181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 956
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0f0771ddabd64dbaf7fbffb6248f0
+      internalID: -598767105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 912
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564275c9c94a9674cbb430bc56d6b64c
+      internalID: -2141166844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 789
+        width: 158
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636458facf184d643ae2b67a93ebd5f8
+      internalID: 1365406748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 763
+        width: 44
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6879fd09fb3331a4d99ceecb58d10d86
+      internalID: -71476059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 789
+        width: 51
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391b6b3c9174db842b7bc4671d043249
+      internalID: 1474059653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 874
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5748e8477fbe6054a87ce033c2a813b2
+      internalID: -1182878376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 845
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c34b626be5ff42a764b3cf3f036e6
+      internalID: 793008070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 813
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25406006e8d33442a4239444f6855af
+      internalID: 650993834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 588
+        width: 44
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297509ce0fc856e4b9287f21474acff6
+      internalID: 1491890753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 652
+        width: 175
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88cd97263914414dbde065e2cb7b25f
+      internalID: 1343523870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 173
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a2e446d856494428dd231f3b9efb2a
+      internalID: 1375898032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 10
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d156208d9038b546b8ed8ffbfcb10e6
+      internalID: -1481123073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 971
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df5758e614230a41b4f81cf2db32080
+      internalID: 44728638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village-inside-house-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 956
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd71c91b7667340a4e52161f4fc0c3
+      internalID: 452770800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      village-inside-house-spritesheet_0: -1048064513
+      village-inside-house-spritesheet_1: 1392563242
+      village-inside-house-spritesheet_10: 1875560742
+      village-inside-house-spritesheet_11: -2031688563
+      village-inside-house-spritesheet_12: 773584714
+      village-inside-house-spritesheet_13: -1006696483
+      village-inside-house-spritesheet_14: 1501274165
+      village-inside-house-spritesheet_15: -399041297
+      village-inside-house-spritesheet_16: -1977119227
+      village-inside-house-spritesheet_17: 452770800
+      village-inside-house-spritesheet_18: -492489524
+      village-inside-house-spritesheet_19: 1982542976
+      village-inside-house-spritesheet_2: -712165509
+      village-inside-house-spritesheet_20: -1998526509
+      village-inside-house-spritesheet_21: 243680153
+      village-inside-house-spritesheet_22: 252134181
+      village-inside-house-spritesheet_23: -2042234267
+      village-inside-house-spritesheet_24: 437160731
+      village-inside-house-spritesheet_25: -598767105
+      village-inside-house-spritesheet_26: -2141166844
+      village-inside-house-spritesheet_27: 1365406748
+      village-inside-house-spritesheet_28: -71476059
+      village-inside-house-spritesheet_29: 1474059653
+      village-inside-house-spritesheet_3: -826637981
+      village-inside-house-spritesheet_30: -1182878376
+      village-inside-house-spritesheet_31: 793008070
+      village-inside-house-spritesheet_32: 650993834
+      village-inside-house-spritesheet_33: 1491890753
+      village-inside-house-spritesheet_34: 1343523870
+      village-inside-house-spritesheet_35: 1375898032
+      village-inside-house-spritesheet_36: -1481123073
+      village-inside-house-spritesheet_37: 44728638
+      village-inside-house-spritesheet_4: -858445056
+      village-inside-house-spritesheet_5: -1057840456
+      village-inside-house-spritesheet_6: 1075409560
+      village-inside-house-spritesheet_7: 2082632275
+      village-inside-house-spritesheet_8: 1544705188
+      village-inside-house-spritesheet_9: 1297856052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

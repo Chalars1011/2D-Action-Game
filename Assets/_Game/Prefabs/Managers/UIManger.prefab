@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4773886923521749305
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7121086680964453021}
+  - component: {fileID: 3539885230687351160}
+  m_Layer: 0
+  m_Name: UIManger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7121086680964453021
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4773886923521749305}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3539885230687351160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4773886923521749305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63f099d6461258a439a690c9afd04c53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  onHealthChange: {fileID: 11400000, guid: 97d647f741f56cf478a2ab13ac9833f7, type: 2}
+  currencyData: {fileID: 11400000, guid: 99666d168a756744e87533815df9ac45, type: 2}
+  playerStateBar: {fileID: 0}
+  playerCurrencyAmount: {fileID: 0}
+  bottleData: {fileID: 11400000, guid: 0660531bda9891946888bd4f3bfe4928, type: 2}
+  bottleParent: {fileID: 0}
+  bottlePrefab: {fileID: 324222256759946495, guid: 78f57bd585d34844b960f4487c09f3df, type: 3}

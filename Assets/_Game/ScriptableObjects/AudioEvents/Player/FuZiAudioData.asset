@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebb96abcde8e6b242985dce51a4f40cb, type: 3}
+  m_Name: FuZiAudioData
+  m_EditorClassIdentifier: 
+  weaponClips:
+  - {fileID: 8300000, guid: 5c907e477375ca846a089faf24212743, type: 3}
+  - {fileID: 8300000, guid: 9287f5aed85f5a04db4cc3201b6888f6, type: 3}
+  - {fileID: 8300000, guid: 5d02a210c1c605741b31aa8f63e471f3, type: 3}
+  - {fileID: 8300000, guid: 382dee26daa12834baa318359cff7a36, type: 3}
+  - {fileID: 8300000, guid: e31adf89554725e49a29b4377b893cbf, type: 3}
+  - {fileID: 8300000, guid: 78d7e34dadd010a4aad97dcef52adfa8, type: 3}
+  - {fileID: 8300000, guid: 81d4e5e00e00d3749a32bfde42ca3d26, type: 3}
+  - {fileID: 8300000, guid: c8c408c4e385b0141866c35b32baabc8, type: 3}

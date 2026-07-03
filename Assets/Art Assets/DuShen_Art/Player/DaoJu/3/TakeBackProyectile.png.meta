@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 60ea3d8fd53063d4d9824481517ece57
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TakeBackProyectile_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 54
+        height: 32
+      alignment: 9
+      pivot: {x: 0.74647605, y: 0.4535861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6707704f6139ce0478240df34cddba33
+      internalID: -701165241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectile_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 52
+        height: 30
+      alignment: 9
+      pivot: {x: 0.71926, y: 0.4591849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e8f9db41cf53241bbc8b6f9d09ef45
+      internalID: -722963431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectile_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 53
+        height: 29
+      alignment: 9
+      pivot: {x: 0.75604707, y: 0.4889233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62f59adcfd620541a70cb16892afb47
+      internalID: -1097406721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectile_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 47
+        width: 51
+        height: 29
+      alignment: 9
+      pivot: {x: 0.72673875, y: 0.46677095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ebe54cbaf300b478d2dbefa89b995f
+      internalID: 1769068027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectile_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 48
+        width: 52
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7201732, y: 0.4736803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e76a73b88073443a61aa9355f9ec63
+      internalID: 1758755850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectile_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 47
+        width: 52
+        height: 28
+      alignment: 9
+      pivot: {x: 0.69815594, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8461af9f903db46b387340415b2762
+      internalID: -1505199046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectile_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 53
+        height: 28
+      alignment: 9
+      pivot: {x: 0.70572793, y: 0.52104914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18c83c417fdf2a4caf6c50e5bb7669d
+      internalID: 1858372231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectile_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5
+        width: 53
+        height: 30
+      alignment: 9
+      pivot: {x: 0.69460744, y: 0.47053057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53384a0a6d2a7749849b8ca8adc0f71
+      internalID: 1019340953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectile_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 51
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7022391, y: 0.46070755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71584f6d4c5f6e94c99aab7d82822d20
+      internalID: -1533550565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeBackProyectile_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 6
+        width: 52
+        height: 31
+      alignment: 9
+      pivot: {x: 0.72101825, y: 0.44296283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c5b849e1abbdf42906aa814221085a
+      internalID: -1797665411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TakeBackProyectile_0: -701165241
+      TakeBackProyectile_1: -722963431
+      TakeBackProyectile_10: -1533550565
+      TakeBackProyectile_11: -1797665411
+      TakeBackProyectile_2: -1097406721
+      TakeBackProyectile_3: 1769068027
+      TakeBackProyectile_4: 1758755850
+      TakeBackProyectile_5: -1505199046
+      TakeBackProyectile_6: 1864602526
+      TakeBackProyectile_7: 1858372231
+      TakeBackProyectile_8: -14067682
+      TakeBackProyectile_9: 1019340953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

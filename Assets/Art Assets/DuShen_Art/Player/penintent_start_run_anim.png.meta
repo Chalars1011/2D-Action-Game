@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: e3617be4c97948b4ba5e7a4a829b25b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penintent_start_run_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 68
+        height: 71
+      alignment: 9
+      pivot: {x: 0.714428, y: 0.022914832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584cafbe730eb641ae3030104dfd3cb
+      internalID: 2003913774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.7311695, y: 0.022129957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb3724acc713ce43a4e5e79e5afb8d9
+      internalID: -1679765772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: 0.68080485, y: 0.019390542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005c69d4d25157c45ba8a194081c2df8
+      internalID: 33777356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 67
+        height: 68
+      alignment: 9
+      pivot: {x: 0.71482885, y: 0.01938562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf32e68f04109448ab86b69f1fe1ec
+      internalID: 652406751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.72339493, y: 0.015421967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6ed5f23184fa647b880943dcbfa357
+      internalID: 456861811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 69
+      alignment: 9
+      pivot: {x: 0.62426716, y: 0.01390891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa743ce77b7bafd4f832935619d8e166
+      internalID: -311388905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 76
+        height: 65
+      alignment: 9
+      pivot: {x: 0.65795916, y: 0.021584418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b55fd69efe708a4c873cd597e46f12b
+      internalID: 2024460542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penintent_start_run_anim_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 71
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6843019, y: 0.01769563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc35d94dbe8e834a9eca01247b72631
+      internalID: 166712456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      penintent_start_run_anim_0: 2003913774
+      penintent_start_run_anim_2: 652406751
+      penintent_start_run_anim_3: 456861811
+      penintent_start_run_anim_4: -1679765772
+      penintent_start_run_anim_5: 33777356
+      penintent_start_run_anim_6: -311388905
+      penintent_start_run_anim_7: 2024460542
+      penintent_start_run_anim_8: 166712456
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

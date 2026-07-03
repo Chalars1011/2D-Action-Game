@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 4ed87b2b74352254c86b1c0fba940e3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 166
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcac71033871f4b4a94f91a2866e5c81
+      internalID: 599349990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 150
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f1b2f20cc9d943a68971b36f49278
+      internalID: 141561059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 148
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c60fae99453a4cad8e5eedb4d3d04
+      internalID: -482845570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 148
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a177a835a5520ab4f92bc82a32d815e4
+      internalID: 1697987112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 148
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee48ae9f5b8fc4fa8a8f6530501f69
+      internalID: 643566476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 149
+        width: 103
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd74501dd9601a741bd40c5e3ed8e505
+      internalID: 485415628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_7
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 149
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ec5de4601810347a39a65f1db82e00
+      internalID: 1313008330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_8
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 149
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a52fdbd6642e114ba214337d47efd46
+      internalID: -66668419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 22
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319387bdb34a6b5418b648900e6deacf
+      internalID: 660287193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 22
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367f2260d4a5aec42b7687812fa8a3be
+      internalID: -2112420158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 21
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9565f740b60be4da59154f94da9f4b
+      internalID: -1464565522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 22
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2006e17de06dd664da2312c60296cb65
+      internalID: 970549557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: penitent_rangeAttack_projectile_explode_anim_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 21
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a516e58dd227b4f918f7814a9e7d9a
+      internalID: -333533501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      penitent_rangeAttack_projectile_explode_anim_0: 599349990
+      penitent_rangeAttack_projectile_explode_anim_1: 141561059
+      penitent_rangeAttack_projectile_explode_anim_10: -1233698367
+      penitent_rangeAttack_projectile_explode_anim_11: -2112420158
+      penitent_rangeAttack_projectile_explode_anim_12: 1342546112
+      penitent_rangeAttack_projectile_explode_anim_13: -1464565522
+      penitent_rangeAttack_projectile_explode_anim_14: -95190676
+      penitent_rangeAttack_projectile_explode_anim_15: 564121120
+      penitent_rangeAttack_projectile_explode_anim_16: 970549557
+      penitent_rangeAttack_projectile_explode_anim_17: -15987026
+      penitent_rangeAttack_projectile_explode_anim_18: 843355786
+      penitent_rangeAttack_projectile_explode_anim_19: 732989015
+      penitent_rangeAttack_projectile_explode_anim_2: -482845570
+      penitent_rangeAttack_projectile_explode_anim_20: -1809522215
+      penitent_rangeAttack_projectile_explode_anim_21: -33353241
+      penitent_rangeAttack_projectile_explode_anim_22: -333533501
+      penitent_rangeAttack_projectile_explode_anim_23: -313384119
+      penitent_rangeAttack_projectile_explode_anim_24: -268763890
+      penitent_rangeAttack_projectile_explode_anim_25: 1095598938
+      penitent_rangeAttack_projectile_explode_anim_3: 1697987112
+      penitent_rangeAttack_projectile_explode_anim_4: 643566476
+      penitent_rangeAttack_projectile_explode_anim_5: 591499711
+      penitent_rangeAttack_projectile_explode_anim_6: 485415628
+      penitent_rangeAttack_projectile_explode_anim_7: 1313008330
+      penitent_rangeAttack_projectile_explode_anim_8: -66668419
+      penitent_rangeAttack_projectile_explode_anim_9: 660287193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

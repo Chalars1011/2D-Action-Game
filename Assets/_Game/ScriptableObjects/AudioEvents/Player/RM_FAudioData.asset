@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b33daa4ce58e72941bce5e46a5679613, type: 3}
+  m_Name: RM_FAudioData
+  m_EditorClassIdentifier: 
+  footsAudios:
+  - Tag: Ground
+    footClips:
+    - {fileID: 8300000, guid: b806e0bef15f77245acac26034b1532f, type: 3}
+    - {fileID: 8300000, guid: 505f887ce99fd6d4c96cfa61f69deb30, type: 3}

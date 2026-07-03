@@ -16,7 +16,17 @@ public class RankSystem : MonoBehaviour
 
     public void RefreshRank()
     {
-        Debug.Log("排行榜刷新中...功能待完善");
+        // 模拟从服务器拉取排行榜数据
+        topPlayers.Clear();
+        topPlayers.Add(new RankEntry { playerName = "测试玩家1", score = 9999, rank = 1 });
+        topPlayers.Add(new RankEntry { playerName = "测试玩家2", score = 8888, rank = 2 });
+        Debug.Log($"排行榜已刷新，共 {topPlayers.Count} 条记录");
+    }
+
+    public List<RankEntry> GetTopPlayers(int count)
+    {
+        if (topPlayers.Count <= count) return topPlayers;
+        return topPlayers.GetRange(0, count);
     }
 }
 

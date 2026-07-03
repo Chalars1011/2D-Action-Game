@@ -14,11 +14,12 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         Debug.Log($"Git测试脚本启动：{testName}, 值={testValue}");
+        // 【同事小王加的】初始化玩家血量
+        Debug.Log("同事小王：在Start方法里加了玩家血量初始化逻辑");
     }
 
     void Update()
     {
-        // 测试方法1：按空格键输出信息
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Debug.Log("你按了空格键 —— 这是第一版测试方法");
